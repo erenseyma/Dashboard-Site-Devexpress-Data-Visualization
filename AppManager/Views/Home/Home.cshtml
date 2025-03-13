@@ -1,0 +1,57 @@
+﻿@model AppManager.Models.DashboardModel
+
+@if (Model != null)
+{
+    <h2>@Model.Name</h2>
+
+    @foreach (var chart in Model.Charts)
+    {
+        <h3>@chart.Name - @chart.ChartType</h3>
+        <canvas id="chart-@chart.Id" width="400" height="200"></canvas>
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+        <script>
+            $(document).ready(function () {
+                $.ajax({
+                    url: '@Url.Action("GetChartData", "Dashboard")',
+                    type: 'POST',
+                    contentType: 'application/json',
+                    data: JSON.stringify({
+                        DatabaseId: @chart.DatabaseId,
+                        Query: '@chart.DataQuery'
+                    }),
+                    success: function (response) {
+                        var ctx = document.getElementById('chart-@chart.Id').getContext('2d');
+                        var chart = new Chart(ctx, {
+                            type: '@chart.ChartType',
+                            data: {
+                                labels: response.labels,
+                                datasets: [{
+                                    label: '@chart.Name',
+                                    data: response.values,
+                                    backgroundColor: 'rgba(75, 192, 192, 0.2)',
+                                    borderColor: 'rgba(75, 192, 192, 1)',
+                                    borderWidth: 1
+                                }]
+                            },
+                            options: {
+                                scales: {
+                                    y: {
+                                        beginAtZero: true
+                                    }
+                                }
+                            }
+                        });
+                    },
+                    error: function (xhr, status, error) {
+                        console.error('Error fetching chart data: ' + error);
+                    }
+                });
+            });
+        </script>
+    }
+}
+else
+{
+    <p>No dashboard selected as home. Please select a home dashboard.</p>
+}

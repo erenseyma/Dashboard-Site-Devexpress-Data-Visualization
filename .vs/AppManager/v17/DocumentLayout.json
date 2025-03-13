@@ -1,0 +1,507 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emrec\\source\\repos\\AppManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA3F737-3044-4B2F-B3A2-CFB3210DDFEF}|AppManager\\AppManager.csproj|c:\\users\\emrec\\source\\repos\\appmanager\\appmanager\\views\\dashboard\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEA3F737-3044-4B2F-B3A2-CFB3210DDFEF}|AppManager\\AppManager.csproj|solutionrelative:appmanager\\views\\dashboard\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA3F737-3044-4B2F-B3A2-CFB3210DDFEF}|AppManager\\AppManager.csproj|c:\\users\\emrec\\source\\repos\\appmanager\\appmanager\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEA3F737-3044-4B2F-B3A2-CFB3210DDFEF}|AppManager\\AppManager.csproj|solutionrelative:appmanager\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA3F737-3044-4B2F-B3A2-CFB3210DDFEF}|AppManager\\AppManager.csproj|c:\\users\\emrec\\source\\repos\\appmanager\\appmanager\\views\\dashboard\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEA3F737-3044-4B2F-B3A2-CFB3210DDFEF}|AppManager\\AppManager.csproj|solutionrelative:appmanager\\views\\dashboard\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA3F737-3044-4B2F-B3A2-CFB3210DDFEF}|AppManager\\AppManager.csproj|c:\\users\\emrec\\source\\repos\\appmanager\\appmanager\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA3F737-3044-4B2F-B3A2-CFB3210DDFEF}|AppManager\\AppManager.csproj|solutionrelative:appmanager\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA3F737-3044-4B2F-B3A2-CFB3210DDFEF}|AppManager\\AppManager.csproj|c:\\users\\emrec\\source\\repos\\appmanager\\appmanager\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEA3F737-3044-4B2F-B3A2-CFB3210DDFEF}|AppManager\\AppManager.csproj|solutionrelative:appmanager\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA3F737-3044-4B2F-B3A2-CFB3210DDFEF}|AppManager\\AppManager.csproj|c:\\users\\emrec\\source\\repos\\appmanager\\appmanager\\controllers\\databasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA3F737-3044-4B2F-B3A2-CFB3210DDFEF}|AppManager\\AppManager.csproj|solutionrelative:appmanager\\controllers\\databasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA3F737-3044-4B2F-B3A2-CFB3210DDFEF}|AppManager\\AppManager.csproj|c:\\users\\emrec\\source\\repos\\appmanager\\appmanager\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA3F737-3044-4B2F-B3A2-CFB3210DDFEF}|AppManager\\AppManager.csproj|solutionrelative:appmanager\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA3F737-3044-4B2F-B3A2-CFB3210DDFEF}|AppManager\\AppManager.csproj|c:\\users\\emrec\\source\\repos\\appmanager\\appmanager\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA3F737-3044-4B2F-B3A2-CFB3210DDFEF}|AppManager\\AppManager.csproj|solutionrelative:appmanager\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA3F737-3044-4B2F-B3A2-CFB3210DDFEF}|AppManager\\AppManager.csproj|c:\\users\\emrec\\source\\repos\\appmanager\\appmanager\\views\\dashboard\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEA3F737-3044-4B2F-B3A2-CFB3210DDFEF}|AppManager\\AppManager.csproj|solutionrelative:appmanager\\views\\dashboard\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA3F737-3044-4B2F-B3A2-CFB3210DDFEF}|AppManager\\AppManager.csproj|c:\\users\\emrec\\source\\repos\\appmanager\\appmanager\\models\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA3F737-3044-4B2F-B3A2-CFB3210DDFEF}|AppManager\\AppManager.csproj|solutionrelative:appmanager\\models\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA3F737-3044-4B2F-B3A2-CFB3210DDFEF}|AppManager\\AppManager.csproj|c:\\users\\emrec\\source\\repos\\appmanager\\appmanager\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA3F737-3044-4B2F-B3A2-CFB3210DDFEF}|AppManager\\AppManager.csproj|solutionrelative:appmanager\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA3F737-3044-4B2F-B3A2-CFB3210DDFEF}|AppManager\\AppManager.csproj|c:\\users\\emrec\\source\\repos\\appmanager\\appmanager\\views\\home\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEA3F737-3044-4B2F-B3A2-CFB3210DDFEF}|AppManager\\AppManager.csproj|solutionrelative:appmanager\\views\\home\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA3F737-3044-4B2F-B3A2-CFB3210DDFEF}|AppManager\\AppManager.csproj|c:\\users\\emrec\\source\\repos\\appmanager\\appmanager\\models\\chartdatarequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA3F737-3044-4B2F-B3A2-CFB3210DDFEF}|AppManager\\AppManager.csproj|solutionrelative:appmanager\\models\\chartdatarequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA3F737-3044-4B2F-B3A2-CFB3210DDFEF}|AppManager\\AppManager.csproj|c:\\users\\emrec\\source\\repos\\appmanager\\appmanager\\models\\chartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA3F737-3044-4B2F-B3A2-CFB3210DDFEF}|AppManager\\AppManager.csproj|solutionrelative:appmanager\\models\\chartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA3F737-3044-4B2F-B3A2-CFB3210DDFEF}|AppManager\\AppManager.csproj|c:\\users\\emrec\\source\\repos\\appmanager\\appmanager\\models\\dashboardmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA3F737-3044-4B2F-B3A2-CFB3210DDFEF}|AppManager\\AppManager.csproj|solutionrelative:appmanager\\models\\dashboardmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA3F737-3044-4B2F-B3A2-CFB3210DDFEF}|AppManager\\AppManager.csproj|c:\\users\\emrec\\source\\repos\\appmanager\\appmanager\\models\\dashboardcreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA3F737-3044-4B2F-B3A2-CFB3210DDFEF}|AppManager\\AppManager.csproj|solutionrelative:appmanager\\models\\dashboardcreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA3F737-3044-4B2F-B3A2-CFB3210DDFEF}|AppManager\\AppManager.csproj|c:\\users\\emrec\\source\\repos\\appmanager\\appmanager\\views\\database\\connect.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEA3F737-3044-4B2F-B3A2-CFB3210DDFEF}|AppManager\\AppManager.csproj|solutionrelative:appmanager\\views\\database\\connect.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA3F737-3044-4B2F-B3A2-CFB3210DDFEF}|AppManager\\AppManager.csproj|c:\\users\\emrec\\source\\repos\\appmanager\\appmanager\\models\\databasemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA3F737-3044-4B2F-B3A2-CFB3210DDFEF}|AppManager\\AppManager.csproj|solutionrelative:appmanager\\models\\databasemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA3F737-3044-4B2F-B3A2-CFB3210DDFEF}|AppManager\\AppManager.csproj|c:\\users\\emrec\\source\\repos\\appmanager\\appmanager\\models\\databaseconnectionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA3F737-3044-4B2F-B3A2-CFB3210DDFEF}|AppManager\\AppManager.csproj|solutionrelative:appmanager\\models\\databaseconnectionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA3F737-3044-4B2F-B3A2-CFB3210DDFEF}|AppManager\\AppManager.csproj|c:\\users\\emrec\\source\\repos\\appmanager\\appmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EEA3F737-3044-4B2F-B3A2-CFB3210DDFEF}|AppManager\\AppManager.csproj|solutionrelative:appmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA3F737-3044-4B2F-B3A2-CFB3210DDFEF}|AppManager\\AppManager.csproj|c:\\users\\emrec\\source\\repos\\appmanager\\appmanager\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEA3F737-3044-4B2F-B3A2-CFB3210DDFEF}|AppManager\\AppManager.csproj|solutionrelative:appmanager\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA3F737-3044-4B2F-B3A2-CFB3210DDFEF}|AppManager\\AppManager.csproj|c:\\users\\emrec\\source\\repos\\appmanager\\appmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA3F737-3044-4B2F-B3A2-CFB3210DDFEF}|AppManager\\AppManager.csproj|solutionrelative:appmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA3F737-3044-4B2F-B3A2-CFB3210DDFEF}|AppManager\\AppManager.csproj|c:\\users\\emrec\\source\\repos\\appmanager\\appmanager\\models\\exportpdfrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA3F737-3044-4B2F-B3A2-CFB3210DDFEF}|AppManager\\AppManager.csproj|solutionrelative:appmanager\\models\\exportpdfrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA3F737-3044-4B2F-B3A2-CFB3210DDFEF}|AppManager\\AppManager.csproj|c:\\users\\emrec\\source\\repos\\appmanager\\appmanager\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEA3F737-3044-4B2F-B3A2-CFB3210DDFEF}|AppManager\\AppManager.csproj|solutionrelative:appmanager\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA3F737-3044-4B2F-B3A2-CFB3210DDFEF}|AppManager\\AppManager.csproj|c:\\users\\emrec\\source\\repos\\appmanager\\appmanager\\data\\migrations\\20240914000821_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA3F737-3044-4B2F-B3A2-CFB3210DDFEF}|AppManager\\AppManager.csproj|solutionrelative:appmanager\\data\\migrations\\20240914000821_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\emrec\\AppData\\Local\\Temp\\.vsdbgsrc\\c9e41ec74c24991e83bea514934a99bdcb11a15e\\Views_Dashboard_Create_cshtml.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\emrec\\.nuget\\packages\\devexpress.xpo\\24.1.5\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA3F737-3044-4B2F-B3A2-CFB3210DDFEF}|AppManager\\AppManager.csproj|c:\\users\\emrec\\source\\repos\\appmanager\\appmanager\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EEA3F737-3044-4B2F-B3A2-CFB3210DDFEF}|AppManager\\AppManager.csproj|solutionrelative:appmanager\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA3F737-3044-4B2F-B3A2-CFB3210DDFEF}|AppManager\\AppManager.csproj|c:\\users\\emrec\\source\\repos\\appmanager\\appmanager\\data\\migrations\\20240917122934_adddatabaseconnectionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA3F737-3044-4B2F-B3A2-CFB3210DDFEF}|AppManager\\AppManager.csproj|solutionrelative:appmanager\\data\\migrations\\20240917122934_adddatabaseconnectionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA3F737-3044-4B2F-B3A2-CFB3210DDFEF}|AppManager\\AppManager.csproj|c:\\users\\emrec\\source\\repos\\appmanager\\appmanager\\data\\migrations\\20240922084453_addchartimagetochartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA3F737-3044-4B2F-B3A2-CFB3210DDFEF}|AppManager\\AppManager.csproj|solutionrelative:appmanager\\data\\migrations\\20240922084453_addchartimagetochartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 344,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\emrec\\source\\repos\\AppManager\\AppManager\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "AppManager\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\emrec\\source\\repos\\AppManager\\AppManager\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "AppManager\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T11:54:13.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\emrec\\source\\repos\\AppManager\\AppManager\\Views\\Dashboard\\Details.cshtml",
+              "RelativeDocumentMoniker": "AppManager\\Views\\Dashboard\\Details.cshtml",
+              "ToolTip": "C:\\Users\\emrec\\source\\repos\\AppManager\\AppManager\\Views\\Dashboard\\Details.cshtml",
+              "RelativeToolTip": "AppManager\\Views\\Dashboard\\Details.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T12:09:39.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\emrec\\source\\repos\\AppManager\\AppManager\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "AppManager\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\emrec\\source\\repos\\AppManager\\AppManager\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "AppManager\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T15:48:46.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\emrec\\source\\repos\\AppManager\\AppManager\\Views\\Dashboard\\Create.cshtml",
+              "RelativeDocumentMoniker": "AppManager\\Views\\Dashboard\\Create.cshtml",
+              "ToolTip": "C:\\Users\\emrec\\source\\repos\\AppManager\\AppManager\\Views\\Dashboard\\Create.cshtml",
+              "RelativeToolTip": "AppManager\\Views\\Dashboard\\Create.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAJEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T15:47:25.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\emrec\\source\\repos\\AppManager\\AppManager\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "AppManager\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\emrec\\source\\repos\\AppManager\\AppManager\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "AppManager\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAqwE4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T09:17:04.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DatabaseController.cs",
+              "DocumentMoniker": "C:\\Users\\emrec\\source\\repos\\AppManager\\AppManager\\Controllers\\DatabaseController.cs",
+              "RelativeDocumentMoniker": "AppManager\\Controllers\\DatabaseController.cs",
+              "ToolTip": "C:\\Users\\emrec\\source\\repos\\AppManager\\AppManager\\Controllers\\DatabaseController.cs",
+              "RelativeToolTip": "AppManager\\Controllers\\DatabaseController.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAiwG4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T14:33:11.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\emrec\\source\\repos\\AppManager\\AppManager\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "AppManager\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\emrec\\source\\repos\\AppManager\\AppManager\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "AppManager\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAOkAAAAAAAAAAAAmwA0BAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T15:47:55.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\emrec\\source\\repos\\AppManager\\AppManager\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "AppManager\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\emrec\\source\\repos\\AppManager\\AppManager\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "AppManager\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA0wDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T23:44:24.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Home.cshtml",
+              "DocumentMoniker": "C:\\Users\\emrec\\source\\repos\\AppManager\\AppManager\\Views\\Dashboard\\Home.cshtml",
+              "RelativeDocumentMoniker": "AppManager\\Views\\Dashboard\\Home.cshtml",
+              "ToolTip": "C:\\Users\\emrec\\source\\repos\\AppManager\\AppManager\\Views\\Dashboard\\Home.cshtml",
+              "RelativeToolTip": "AppManager\\Views\\Dashboard\\Home.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T15:29:28.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\emrec\\source\\repos\\AppManager\\AppManager\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AppManager\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\emrec\\source\\repos\\AppManager\\AppManager\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AppManager\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T23:32:40.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Setting.cs",
+              "DocumentMoniker": "C:\\Users\\emrec\\source\\repos\\AppManager\\AppManager\\Models\\Setting.cs",
+              "RelativeDocumentMoniker": "AppManager\\Models\\Setting.cs",
+              "ToolTip": "C:\\Users\\emrec\\source\\repos\\AppManager\\AppManager\\Models\\Setting.cs",
+              "RelativeToolTip": "AppManager\\Models\\Setting.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T15:19:15.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Home.cshtml",
+              "DocumentMoniker": "C:\\Users\\emrec\\source\\repos\\AppManager\\AppManager\\Views\\Home\\Home.cshtml",
+              "RelativeDocumentMoniker": "AppManager\\Views\\Home\\Home.cshtml",
+              "ToolTip": "C:\\Users\\emrec\\source\\repos\\AppManager\\AppManager\\Views\\Home\\Home.cshtml",
+              "RelativeToolTip": "AppManager\\Views\\Home\\Home.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAqwDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T23:33:26.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ChartDataRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\emrec\\source\\repos\\AppManager\\AppManager\\Models\\ChartDataRequestModel.cs",
+              "RelativeDocumentMoniker": "AppManager\\Models\\ChartDataRequestModel.cs",
+              "ToolTip": "C:\\Users\\emrec\\source\\repos\\AppManager\\AppManager\\Models\\ChartDataRequestModel.cs",
+              "RelativeToolTip": "AppManager\\Models\\ChartDataRequestModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T22:54:21.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ChartModel.cs",
+              "DocumentMoniker": "C:\\Users\\emrec\\source\\repos\\AppManager\\AppManager\\Models\\ChartModel.cs",
+              "RelativeDocumentMoniker": "AppManager\\Models\\ChartModel.cs",
+              "ToolTip": "C:\\Users\\emrec\\source\\repos\\AppManager\\AppManager\\Models\\ChartModel.cs",
+              "RelativeToolTip": "AppManager\\Models\\ChartModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T16:40:32.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DashboardModel.cs",
+              "DocumentMoniker": "C:\\Users\\emrec\\source\\repos\\AppManager\\AppManager\\Models\\DashboardModel.cs",
+              "RelativeDocumentMoniker": "AppManager\\Models\\DashboardModel.cs",
+              "ToolTip": "C:\\Users\\emrec\\source\\repos\\AppManager\\AppManager\\Models\\DashboardModel.cs",
+              "RelativeToolTip": "AppManager\\Models\\DashboardModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T16:28:47.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DashboardCreateViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\emrec\\source\\repos\\AppManager\\AppManager\\Models\\DashboardCreateViewModel.cs",
+              "RelativeDocumentMoniker": "AppManager\\Models\\DashboardCreateViewModel.cs",
+              "ToolTip": "C:\\Users\\emrec\\source\\repos\\AppManager\\AppManager\\Models\\DashboardCreateViewModel.cs",
+              "RelativeToolTip": "AppManager\\Models\\DashboardCreateViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T15:55:35.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Connect.cshtml",
+              "DocumentMoniker": "C:\\Users\\emrec\\source\\repos\\AppManager\\AppManager\\Views\\Database\\Connect.cshtml",
+              "RelativeDocumentMoniker": "AppManager\\Views\\Database\\Connect.cshtml",
+              "ToolTip": "C:\\Users\\emrec\\source\\repos\\AppManager\\AppManager\\Views\\Database\\Connect.cshtml",
+              "RelativeToolTip": "AppManager\\Views\\Database\\Connect.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T14:34:21.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DatabaseModel.cs",
+              "DocumentMoniker": "C:\\Users\\emrec\\source\\repos\\AppManager\\AppManager\\Models\\DatabaseModel.cs",
+              "RelativeDocumentMoniker": "AppManager\\Models\\DatabaseModel.cs",
+              "ToolTip": "C:\\Users\\emrec\\source\\repos\\AppManager\\AppManager\\Models\\DatabaseModel.cs",
+              "RelativeToolTip": "AppManager\\Models\\DatabaseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T16:38:31.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DatabaseConnectionModel.cs",
+              "DocumentMoniker": "C:\\Users\\emrec\\source\\repos\\AppManager\\AppManager\\Models\\DatabaseConnectionModel.cs",
+              "RelativeDocumentMoniker": "AppManager\\Models\\DatabaseConnectionModel.cs",
+              "ToolTip": "C:\\Users\\emrec\\source\\repos\\AppManager\\AppManager\\Models\\DatabaseConnectionModel.cs",
+              "RelativeToolTip": "AppManager\\Models\\DatabaseConnectionModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T14:36:15.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\emrec\\source\\repos\\AppManager\\AppManager\\appsettings.json",
+              "RelativeDocumentMoniker": "AppManager\\appsettings.json",
+              "ToolTip": "C:\\Users\\emrec\\source\\repos\\AppManager\\AppManager\\appsettings.json",
+              "RelativeToolTip": "AppManager\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-11T11:40:33.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\emrec\\source\\repos\\AppManager\\AppManager\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AppManager\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\emrec\\source\\repos\\AppManager\\AppManager\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AppManager\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAqwIwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T23:43:23.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\emrec\\source\\repos\\AppManager\\AppManager\\Program.cs",
+              "RelativeDocumentMoniker": "AppManager\\Program.cs",
+              "ToolTip": "C:\\Users\\emrec\\source\\repos\\AppManager\\AppManager\\Program.cs",
+              "RelativeToolTip": "AppManager\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T11:51:27.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ExportPdfRequest.cs",
+              "DocumentMoniker": "C:\\Users\\emrec\\source\\repos\\AppManager\\AppManager\\Models\\ExportPdfRequest.cs",
+              "RelativeDocumentMoniker": "AppManager\\Models\\ExportPdfRequest.cs",
+              "ToolTip": "C:\\Users\\emrec\\source\\repos\\AppManager\\AppManager\\Models\\ExportPdfRequest.cs",
+              "RelativeToolTip": "AppManager\\Models\\ExportPdfRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAA+wAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T23:13:34.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\emrec\\source\\repos\\AppManager\\AppManager\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "AppManager\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\emrec\\source\\repos\\AppManager\\AppManager\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "AppManager\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T11:46:44.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20240922084453_AddChartImageToChartModel.cs",
+              "DocumentMoniker": "C:\\Users\\emrec\\source\\repos\\AppManager\\AppManager\\Data\\Migrations\\20240922084453_AddChartImageToChartModel.cs",
+              "RelativeDocumentMoniker": "AppManager\\Data\\Migrations\\20240922084453_AddChartImageToChartModel.cs",
+              "ToolTip": "C:\\Users\\emrec\\source\\repos\\AppManager\\AppManager\\Data\\Migrations\\20240922084453_AddChartImageToChartModel.cs",
+              "RelativeToolTip": "AppManager\\Data\\Migrations\\20240922084453_AddChartImageToChartModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T08:44:53.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20240917122934_AddDatabaseConnectionModel.cs",
+              "DocumentMoniker": "C:\\Users\\emrec\\source\\repos\\AppManager\\AppManager\\Data\\Migrations\\20240917122934_AddDatabaseConnectionModel.cs",
+              "RelativeDocumentMoniker": "AppManager\\Data\\Migrations\\20240917122934_AddDatabaseConnectionModel.cs",
+              "ToolTip": "C:\\Users\\emrec\\source\\repos\\AppManager\\AppManager\\Data\\Migrations\\20240917122934_AddDatabaseConnectionModel.cs",
+              "RelativeToolTip": "AppManager\\Data\\Migrations\\20240917122934_AddDatabaseConnectionModel.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T12:29:34.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20240914000821_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\emrec\\source\\repos\\AppManager\\AppManager\\Data\\Migrations\\20240914000821_InitialCreate.cs",
+              "RelativeDocumentMoniker": "AppManager\\Data\\Migrations\\20240914000821_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\emrec\\source\\repos\\AppManager\\AppManager\\Data\\Migrations\\20240914000821_InitialCreate.cs",
+              "RelativeToolTip": "AppManager\\Data\\Migrations\\20240914000821_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T23:54:35.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Views_Dashboard_Create_cshtml.g.cs",
+              "DocumentMoniker": "C:\\Users\\emrec\\AppData\\Local\\Temp\\.vsdbgsrc\\c9e41ec74c24991e83bea514934a99bdcb11a15e\\Views_Dashboard_Create_cshtml.g.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\c9e41ec74c24991e83bea514934a99bdcb11a15e\\Views_Dashboard_Create_cshtml.g.cs",
+              "ToolTip": "C:\\Users\\emrec\\AppData\\Local\\Temp\\.vsdbgsrc\\c9e41ec74c24991e83bea514934a99bdcb11a15e\\Views_Dashboard_Create_cshtml.g.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\c9e41ec74c24991e83bea514934a99bdcb11a15e\\Views_Dashboard_Create_cshtml.g.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T23:08:18.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\emrec\\.nuget\\packages\\devexpress.xpo\\24.1.5\\readme.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\devexpress.xpo\\24.1.5\\readme.txt",
+              "ToolTip": "C:\\Users\\emrec\\.nuget\\packages\\devexpress.xpo\\24.1.5\\readme.txt",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\devexpress.xpo\\24.1.5\\readme.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-11T15:59:06.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\emrec\\source\\repos\\AppManager\\AppManager\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "AppManager\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\emrec\\source\\repos\\AppManager\\AppManager\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "AppManager\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-11T13:46:26.2Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

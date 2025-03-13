@@ -1,0 +1,40 @@
+﻿@model IEnumerable<AppManager.Models.DashboardModel>
+
+<h2>Dashboards</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Dashboard Name</th>
+            <th>Charts</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var dashboard in Model)
+        {
+            <tr>
+                <td>@dashboard.Name</td>
+                <td>
+                    <ul>
+                        @foreach (var chart in dashboard.Charts)
+                        {
+                            <li>@chart.Name - @chart.ChartType</li>
+                        }
+                    </ul>
+                </td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@dashboard.Id" class="btn btn-secondary">View Details</a>
+                    <form asp-action="Delete" asp-route-id="@dashboard.Id" method="post" style="display:inline;" onsubmit="return confirm('Are you sure you want to delete this dashboard?');">
+                        <button type="submit" class="btn btn-danger">Delete</button>
+                    </form>
+                    <form asp-action="SetAsHomeDashboard" asp-route-id="@dashboard.Id" method="post" style="display:inline;">
+                        <button type="submit" class="btn btn-primary">Set as Home Dashboard</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="Create" class="btn btn-primary">Create New Dashboard</a>

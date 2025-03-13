@@ -1,0 +1,58 @@
+﻿@model IEnumerable<DatabaseConnectionModel>
+
+<div class="container mt-4">
+    <h2>Database Connections</h2>
+    @if (ViewBag.Message != null)
+    {
+        <div class="alert alert-info">
+            @ViewBag.Message
+        </div>
+    }
+    <form asp-action="Connect" method="post">
+        <div class="form-group">
+            <label for="Server">Server Name</label>
+            <input type="text" name="Server" class="form-control" required />
+        </div>
+        <div class="form-group">
+            <label for="DatabaseName">Database Name</label>
+            <input type="text" name="DatabaseName" class="form-control" required />
+        </div>
+        <div class="form-group">
+            <label for="Username">Username</label>
+            <input type="text" name="Username" class="form-control" required />
+        </div>
+        <div class="form-group">
+            <label for="Password">Password</label>
+            <input type="password" name="Password" class="form-control" required />
+        </div>
+        <button type="submit" class="btn btn-primary mt-3">Connect</button>
+    </form>
+
+    <h3 class="mt-4">Connections</h3>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Server Name</th>
+                <th>Database Name</th>
+                <th>Username</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var connection in Model)
+            {
+                <tr>
+                    <td>@connection.Server</td>
+                    <td>@connection.DatabaseName</td>
+                    <td>@connection.Username</td>
+                    <td>
+                        <form asp-action="DeleteConnection" method="post" class="d-inline">
+                            <input type="hidden" name="id" value="@connection.Id" />
+                            <button type="submit" class="btn btn-danger btn-sm">Delete</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
